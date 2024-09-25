@@ -1,0 +1,8 @@
+{
+        
+    "loginTitle": "Login Here!",
+    "usernamePlaceholder": "Username",
+    "passwordPlaceholder": "Password",
+    "signinButton": "Sign In",
+    "signinSuccess": "SignIn Admin Successfully"
+}

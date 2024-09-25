@@ -1,0 +1,30 @@
+.main-div{
+    background-image: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(171,172,173,0.41358541707698704) 0%),url(../public/bgc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.second-div{
+    height: 220px;
+    background-color: rgba(105, 105, 105, 0.9);
+    width: 250px;
+}
+
+.form-div{
+    gap: 10px;
+}
+.modal-actions{
+    margin-top: 25px;
+}
+.form-container{
+    margin-top: 25px;
+
+}
+.input-2{
+    margin-top: 15px;
+    width: 200px;
+}
+.input-1{
+    width: 200px;
+}
